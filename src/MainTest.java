@@ -2,7 +2,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class MainTest {
 
-    private int[] array1 ;
+    private int[] array1;
     private int[] array2;
     private int[] array3;
     private int[] array4;
